@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Swaraj2707
 - 👀 I’m interested in Web Development , Software Devlopment etc.
-- 🌱 I’m currently learning Angilar Js
+- 🌱 I’m currently learning Angular Js
 - 💞️ I’m looking to collaborate on Web and Software Development
 - 📫 How to reach me My Gmail ID : singhswaraj521@gmail.com
 
