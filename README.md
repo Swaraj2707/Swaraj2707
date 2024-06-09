@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Swaraj2707
 - 👀 I’m interested in Web Development , Software Devlopment etc.
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently learning React Js, Node Js
 - 💞️ I’m looking to collaborate on Web and Software Development
 - 📫 How to reach me My LinkedIn ID : https://www.linkedin.com/in/swaraj-singh-844769126/
 - 📫 How to reach me My Leetcode ID : https://leetcode.com/singhswaraj521/
